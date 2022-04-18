@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="550" height="50" src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=algerian&color=F7541C&background=FFFEFE00&lines=Welcome+To+My+Github+Profile+;Nice+to+Meet+You!!;I+am+Tanishq+Kishor+Kasar)](https://git.io/typing-svg)
+  <img width="550" height="50" src="(https://readme-typing-svg.herokuapp.com?font=algerian&color=F7541C&background=FFFEFE00&lines=Welcome+To+My+Github+Profile+;Nice+to+Meet+You!!;I+am+Tanishq+Kishor+Kasar)](https://git.io/typing-svg)
 
                                     
 ## Info
